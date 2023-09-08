@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bber-cxzc;
-- 👀 I’m interested in      (yes, it is what you like);
-- 🌱 I’m currently learning simple C++；
+- 👀 I’m interested in something     (yes, it is what you like);
+- 🌱 I’m currently learning simple programing；
 - 💞️ I’m looking to collaborate on friends from all the world;
 
 <!---
